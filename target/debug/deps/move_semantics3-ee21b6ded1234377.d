@@ -1,0 +1,9 @@
+/home/gon/Programming/firstphase/rustlings/target/debug/deps/move_semantics3-ee21b6ded1234377.d: exercises/06_move_semantics/move_semantics3.rs Cargo.toml
+
+/home/gon/Programming/firstphase/rustlings/target/debug/deps/libmove_semantics3-ee21b6ded1234377.rmeta: exercises/06_move_semantics/move_semantics3.rs Cargo.toml
+
+exercises/06_move_semantics/move_semantics3.rs:
+Cargo.toml:
+
+# env-dep:CLIPPY_ARGS=
+# env-dep:CLIPPY_CONF_DIR
