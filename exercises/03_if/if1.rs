@@ -3,7 +3,8 @@ fn bigger(a: i32, b: i32) -> i32 {
     // If both numbers are equal, any of them can be returned.
     // Do not use:
     // - another function call
-    // - additional variables
+    // - additional variable
+    if a > b { a } else { b }
 }
 
 fn main() {

@@ -1,14 +1,18 @@
 // TODO: Fix the compiler error on this function.
 fn picky_eater(food: &str) -> &str {
-    if food == "strawberry" {
-        "Yummy!"
-    } else {
-        1
+    // if food == "strawberry" { "Yummy!" } else { 1 }
+    match food {
+        "strawberry" => "Yummy!",
+        "potato" => "I guess I can eat that.",
+        // "broccoli" => "No thanks!",
+        // "gummy bears" => "No thanks!",
+        _ => "No thanks!",
     }
 }
 
 fn main() {
-    // You can optionally experiment here.
+    let food: &str = picky_eater("strawberry");
+    println!("{}", food);
 }
 
 // TODO: Read the tests to understand the desired behavior.
