@@ -1,1 +1,1 @@
-/home/gon/Programming/firstphase/rustlings/target/debug/intro1: /home/gon/Programming/firstphase/rustlings/exercises/00_intro/intro1.rs
+/Users/smoothoperator/onepiece/programming/oxide/rustlings/target/debug/intro1: /Users/smoothoperator/onepiece/programming/oxide/rustlings/exercises/00_intro/intro1.rs
