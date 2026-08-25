@@ -1,1 +1,1 @@
-/home/gon/Programming/firstphase/rustlings/target/debug/variables6: /home/gon/Programming/firstphase/rustlings/exercises/01_variables/variables6.rs
+/Users/smoothoperator/onepiece/programming/oxide/rustlings/target/debug/variables6: /Users/smoothoperator/onepiece/programming/oxide/rustlings/exercises/01_variables/variables6.rs

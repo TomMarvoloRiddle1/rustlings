@@ -1,1 +1,1 @@
-/home/gon/Programming/firstphase/rustlings/target/debug/structs2: /home/gon/Programming/firstphase/rustlings/exercises/07_structs/structs2.rs
+/Users/smoothoperator/onepiece/programming/oxide/rustlings/target/debug/structs2: /Users/smoothoperator/onepiece/programming/oxide/rustlings/exercises/07_structs/structs2.rs
