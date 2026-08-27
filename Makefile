@@ -1,4 +1,4 @@
 hf:
-	git commit -m "hotfix"
 	git add .
+	git commit -m "hotfix"
 	git push origin main
